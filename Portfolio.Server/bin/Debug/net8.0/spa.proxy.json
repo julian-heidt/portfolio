@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:57445",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\julia\\personal code\\portfolio\\Portfolio\\Portfolio.Server\\..\\portfolio.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

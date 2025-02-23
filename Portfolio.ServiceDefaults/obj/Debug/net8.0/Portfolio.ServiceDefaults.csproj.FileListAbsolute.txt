@@ -1,0 +1,12 @@
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\bin\Debug\net8.0\Portfolio.ServiceDefaults.deps.json
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\bin\Debug\net8.0\Portfolio.ServiceDefaults.dll
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\bin\Debug\net8.0\Portfolio.ServiceDefaults.pdb
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.AssemblyInfo.cs
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.dll
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\refint\Portfolio.ServiceDefaults.dll
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\Portfolio.ServiceDefaults.pdb
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.ServiceDefaults\obj\Debug\net8.0\ref\Portfolio.ServiceDefaults.dll
