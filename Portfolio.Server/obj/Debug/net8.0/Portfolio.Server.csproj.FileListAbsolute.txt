@@ -79,3 +79,4 @@ C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.Server\obj\Debug\net8
 C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.Server\obj\Debug\net8.0\Portfolio.Server.pdb
 C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.Server\obj\Debug\net8.0\Portfolio.Server.genruntimeconfig.cache
 C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.Server\obj\Debug\net8.0\ref\Portfolio.Server.dll
+C:\Users\julia\personal code\portfolio\Portfolio\Portfolio.Server\obj\Debug\net8.0\Portfolio.Server.sourcelink.json

@@ -24,9 +24,9 @@ const StyledToolbar = styled(Toolbar)(({ theme }) => ({
     border: '1px solid',
     borderColor: theme.palette.divider,
     backgroundColor: theme.palette
-        ? `rgba(${theme.palette.background.paper} / 0.4)`
-        : alpha(theme.palette.background.default, 0.4),
-    boxShadow: (theme.vars || theme).shadows[1],
+        ? `rgba(${(theme.cssVariables || theme).palette.background.paper} / 0.4)`
+        : alpha((theme.cssVariables || theme).palette.background.paper, 0.4),
+    boxShadow: theme.shadows[1],
     padding: '8px 12px',
 }));
 
