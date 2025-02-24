@@ -1,28 +1,42 @@
 import * as React from 'react';
-import CssBaseline from '@mui/material/CssBaseline';
 import Container from '@mui/material/Container';
-import AppTheme from './theme/AppTheme';
-import NavBar from './components/NavBar';
-import MainContent from './components/MainContent';
-import Footer from './components/Footer';
-import Latest from './components/Latest';
+import Typography from '@mui/material/Typography';
+import Box from '@mui/material/Box';
+import Link from '@mui/material/Link';
+import ProTip from './components/proTip';
+import { ThemeProvider } from '@emotion/react';
+import theme from './theme/theme'
 
-
-export default function App(props: { disableCustomTheme?: boolean }) {
+function Copyright() {
     return (
-        <AppTheme {...props}>
-            <CssBaseline enableColorScheme />
-            
-            <NavBar />
-            <Container
-                maxWidth="lg"
-                component="main"
-                sx={{ display: 'flex', flexDirection: 'column', my: 16, gap: 4 }}
-            >
-                <MainContent />
-                <Latest />
+        <Typography
+            variant="body2"
+            align="center"
+            sx={{
+                color: 'text.secondary',
+            }}
+        >
+            {'Copyright © '}
+            <Link color="inherit" href="https://mui.com/">
+                Your Website
+            </Link>{' '}
+            {new Date().getFullYear()}.
+        </Typography>
+    );
+}
+
+export default function App() {
+    return (
+        <ThemeProvider theme={theme}>
+            <Container sx={{ width: '100%', display: 'flex', textAlign: 'center !important' }}>
+                <Box sx={{ my: 4 }}>
+                    <Typography variant="h4" component="h1" sx={{ mb: 2, color: 'text.primary' }}>
+                        Material UI Create React App example in TypeScript
+                    </Typography>
+                    <ProTip />
+                    <Copyright />
+                </Box>
             </Container>
-            <Footer />
-        </AppTheme>
+        </ThemeProvider>
     );
 }

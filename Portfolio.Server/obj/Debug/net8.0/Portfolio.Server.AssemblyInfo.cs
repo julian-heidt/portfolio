@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Portfolio.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2c1b12fc38047bfb1f878f2dfab399a369ea29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49029dbe2900f2bc1114589fb048759a402ae216")]
 [assembly: System.Reflection.AssemblyProductAttribute("Portfolio.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Portfolio.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
